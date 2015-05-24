@@ -5,8 +5,8 @@ permalink: /about/
 feature-img: "img/sample_feature_img_2.png"
 ---
 
-Type Theme is a free and open-source theme for [Jekyll](http://jekyllrb.com/), licensed under the MIT License.
+[Email Me](mailto:sburns77@gmail.com?Subject=Hello!/), review my [recent projects] or look at my [résumé] (https://www.linkedin.com/profile/view?id=64958284) (I'm Canadian, we have to use the French spelling).
 
-Head over to the [theme's documentation](https://rohanchandra.github.io/project/type/) for much more information about Type Theme or to install this theme on your own Jekyll site.
+Here's my [Facebook](https://www.facebook.com/saywhatSimon), [Twitter] (https://twitter.com/realSimonBurns) and [instagram] (https://twitter.com/realSimonBurns).
 
-This file is an example of a page in Jekyll, that automatically shows up in the header navigation, you can delete or modify this file freely.
+I'm a huge fan of financial technology. Not entirely sure why, I started investing in markets fairly young (like 13). I like to write about how fintech is changing the way that people invest. And how the way people invest changes how capital is allocated. Which changes how innovation gets funded. Which changes how society advances. I like the way that all works out.
